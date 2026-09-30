@@ -2,7 +2,7 @@
 
 AYAN is an official Turing partner. We connect engineers, scientists and researchers with remote contracts at the world's leading AI labs.
 
-**Updated:** September 28, 2026 · **All roles are 100% remote contracts with immediate start.**
+**Updated:** September 30, 2026 · **All roles are 100% remote contracts.**
 
 ## How to apply
 
@@ -15,18 +15,22 @@ AYAN is an official Turing partner. We connect engineers, scientists and researc
 | Priority | Role | Eligible locations | Apply |
 | --- | --- | --- | --- |
 | **Urgent** | Senior Software Engineer – Python / TypeScript | USA (approved states), Canada | [Apply](https://tally.so/r/MeBXeM) |
-| **Urgent** | Engineering Expert – Electrical, Mechanical & Aerospace | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Kenya, Nigeria, Turkey | [Apply](https://tally.so/r/rjXorv) |
+| **Urgent** | Engineering Expert – Mechanical & Aerospace | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Kenya, Nigeria, Turkey, USA (approved states) | [Apply](https://tally.so/r/rjXorv) |
+| **Urgent** | Math Expert – Terminal Bench | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/gDK52l) |
+| **Urgent** | Physical Sciences Expert – Terminal Bench | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/XxZeXj) |
+| **Urgent** | Scientific Computing / Research Engineering Expert – Earth Sciences | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/PdKpjV) |
 | Open | Senior Infrastructure / Backend Engineer – GCP Production Systems | USA (approved states), Latin America | [Apply](https://tally.so/r/BzNAxN) |
+| Open | Power Electronics Domain Expert – PCB Design | India, Brazil | [Apply](https://tally.so/r/kdqKNM) |
 
 ## Role details
 
 <details>
 <summary><b>Senior Software Engineer – Python / TypeScript</b></summary>
 
-Design and refine rubrics for preference data, review data with a very high quality bar, and build the Python/TypeScript pipelines that power data generation and evaluation for a leading AI lab.
+Design and refine rubrics for preference data, review data with a very high quality bar, and build the pipelines that power data generation and evaluation for a leading AI lab.
 
 **Must-haves**
-- 5+ years of Python (pipelines and infra) or TypeScript (large codebases like VSCode are a plus)
+- 5+ years of Python (pipelines and infra) or TypeScript / Golang / JavaScript (large codebases like VSCode are a plus)
 - Hands-on experience with preference data collection and/or rubric creation
 - Background at Tier 1 companies and universities
 - Clear, concise technical writing
@@ -34,27 +38,81 @@ Design and refine rubrics for preference data, review data with a very high qual
 - 20+ hours/week (min. 4h/day) with 4h overlap with PST
 - Based in the USA (approved states) or Canada
 
-**Contract:** 3 months · Fast process: AI interview, coding challenge, one 30-min interview
+**Contract:** 3 months, immediate start · 200 open positions · Fast process: AI interview, coding challenge, one 30-min interview
 
 [Apply here](https://tally.so/r/MeBXeM)
 </details>
 
 <details>
-<summary><b>Engineering Expert – Electrical, Mechanical & Aerospace</b></summary>
+<summary><b>Engineering Expert – Mechanical & Aerospace</b></summary>
 
 Create simulation-based engineering design tasks with competing constraints, validated reference solutions and automated graders, then analyze agent logs to expose reasoning failures.
 
 **Must-haves**
-- Master's or PhD in Electrical, Mechanical or Aerospace Engineering
+- Master's or PhD in Mechanical or Aerospace Engineering
 - 10+ years of hands-on engineering design
-- Proficiency in an open-source simulation tool (ngspice, OpenFOAM, FEniCSx, CalculiX, OpenModelica, Gmsh or similar) plus strong Python
+- Proficiency in an open-source simulation tool (OpenFOAM, FEniCSx, CalculiX, OpenModelica, Gmsh, CadQuery or similar) plus strong Python
 - Hands-on experience with LLMs/coding agents and evaluation concepts (pass@k, failure-mode analysis)
 - 40h/week with 4h overlap with PST, plus weekend on-call
-- Based in Bangladesh, India, Indonesia, Egypt, Ghana, Kenya, Nigeria, Turkey, Brazil or Colombia
+- Based in Bangladesh, India, Indonesia, Egypt, Ghana, Kenya, Nigeria, Turkey, Brazil, Colombia or the USA (approved states)
 
-**Contract:** up to 24 weeks · 210 open positions
+**Contract:** up to 24 weeks, immediate start · 190 open positions
 
 [Apply here](https://tally.so/r/rjXorv)
+</details>
+
+<details>
+<summary><b>Math Expert – Terminal Bench</b></summary>
+
+Design realistic, multi-step computational math tasks (optimization, numerical analysis, statistics, differential equations, stochastic modeling) inside terminal environments, write expert solutions and build automated tests that separate valid results from unstable ones.
+
+**Must-haves**
+- PhD, postdoc or equivalent advanced experience in Mathematics, Statistics or a closely related field
+- Strong programming in Python, R, Julia, C/C++ or Bash
+- Hands-on Linux/terminal experience
+- Solid numerical methods, error analysis and reproducibility
+- Full-time (40h/week) with 4h overlap with PST
+- Based in Bangladesh, India, Indonesia, Egypt, Ghana, Nigeria, Turkey, Brazil or Colombia
+
+**Nice to have:** NumPy, SciPy, JAX, CVXPY or experience evaluating coding agents · **Contract:** 5 weeks, starting next week · 120 open positions
+
+[Apply here](https://tally.so/r/gDK52l)
+</details>
+
+<details>
+<summary><b>Physical Sciences Expert – Terminal Bench</b></summary>
+
+Turn real physics, chemistry, materials science and astronomy workflows into reproducible terminal-based tasks: prepare inputs and simulations, write expert solutions and build automated tests for numerical accuracy and physical consistency.
+
+**Must-haves**
+- PhD, postdoc or equivalent advanced experience in a physical-science discipline (Astronomy & Cosmology profiles especially wanted)
+- Strong programming in Python, C/C++, Julia or Bash
+- Hands-on Linux/terminal experience
+- Experience with numerical methods, simulations or quantitative data analysis
+- Full-time (40h/week) with 4h overlap with PST
+- Based in Bangladesh, India, Indonesia, Egypt, Ghana, Nigeria, Turkey, Brazil or Colombia
+
+**Nice to have:** SciPy, LAMMPS, GROMACS, RDKit, OpenMM or HPC experience · **Contract:** 5 weeks, starting next week · 120 open positions
+
+[Apply here](https://tally.so/r/XxZeXj)
+</details>
+
+<details>
+<summary><b>Scientific Computing / Research Engineering Expert – Earth Sciences</b></summary>
+
+Translate real climate, atmospheric, geophysics, oceanography, geology and hydrology workflows into terminal-based tasks: prepare geospatial and time-series datasets, write expert solutions and define objective grading criteria.
+
+**Must-haves**
+- PhD, postdoc or equivalent in Earth Sciences (climate, atmospheric science, geophysics, oceanography, geology, hydrology, remote sensing or environmental modeling)
+- Strong programming in Python, R, Julia, C/C++, MATLAB or Bash
+- Experience with scientific data processing, numerical modeling or geospatial analysis
+- Comfortable in Linux/terminal environments
+- Full-time (40h/week) with 4h overlap with PST
+- Based in Bangladesh, India, Indonesia, Egypt, Ghana, Nigeria, Turkey, Brazil or Colombia
+
+**Nice to have:** xarray, GDAL, NetCDF or GeoPandas · **Contract:** 10 weeks, immediate start
+
+[Apply here](https://tally.so/r/PdKpjV)
 </details>
 
 <details>
@@ -70,9 +128,27 @@ Run deployments, uptime and incident response for Cloud Run-based services, debu
 - 8h/day with 6h overlap with PST
 - Based in the USA (approved states) or Latin America
 
-**Contract:** 3 months · Simple process: profile review and one interview
+**Contract:** 3 months, immediate start · Simple process: profile review and one interview
 
 [Apply here](https://tally.so/r/BzNAxN)
+</details>
+
+<details>
+<summary><b>Power Electronics Domain Expert – PCB Design & Evaluation Framework Architect</b></summary>
+
+Design power circuits (DC-DC, LDOs, AC-DC supplies), create schematics and layouts in KiCad or Altium, and define how AI design systems are checked for specs, component compliance and layout quality.
+
+**Must-haves**
+- Master's in Electronics or Electrical Engineering
+- 5+ years in power electronics or PCB design
+- 2–3 years with KiCad or Altium
+- Solid knowledge of DRC, DFM, EMI and datasheet-driven component selection
+- 8h/day with 4h overlap with PST
+- Based in India or Brazil
+
+**Nice to have:** Python · **Contract:** 12 weeks, immediate start
+
+[Apply here](https://tally.so/r/kdqKNM)
 </details>
 
 ---
