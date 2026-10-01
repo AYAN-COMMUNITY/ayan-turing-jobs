@@ -2,7 +2,7 @@
 
 AYAN is an official Turing partner. We connect engineers, scientists and researchers with remote contracts at the world's leading AI labs.
 
-**Updated:** September 30, 2026 · **All roles are 100% remote contracts.**
+**Updated:** October 1, 2026 · **All roles are 100% remote contracts.**
 
 ## How to apply
 
@@ -19,6 +19,9 @@ AYAN is an official Turing partner. We connect engineers, scientists and researc
 | **Urgent** | Math Expert – Terminal Bench | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/gDK52l) |
 | **Urgent** | Physical Sciences Expert – Terminal Bench | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/XxZeXj) |
 | **Urgent** | Scientific Computing / Research Engineering Expert – Earth Sciences | Brazil, Colombia, India, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/PdKpjV) |
+| **Urgent** | Senior Code Quality Engineer | Brazil, Colombia, India, Pakistan, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/PdVeAP) |
+| **Urgent** | Strategic Project Lead – Software Engineering | USA (approved states), Canada, Brazil, Colombia, India, Pakistan, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/ODO9Ak) |
+| **Urgent** | Staff Research Engineer – Frontier AI, RL & Evaluation | USA (approved states), Canada, Brazil, Colombia, India, Pakistan, Bangladesh, Indonesia, Egypt, Ghana, Nigeria, Turkey | [Apply](https://tally.so/r/VL2AZN) |
 | Open | Senior Infrastructure / Backend Engineer – GCP Production Systems | USA (approved states), Latin America | [Apply](https://tally.so/r/BzNAxN) |
 | Open | Power Electronics Domain Expert – PCB Design | India, Brazil | [Apply](https://tally.so/r/kdqKNM) |
 
@@ -113,6 +116,65 @@ Translate real climate, atmospheric, geophysics, oceanography, geology and hydro
 **Nice to have:** xarray, GDAL, NetCDF or GeoPandas · **Contract:** 10 weeks, immediate start
 
 [Apply here](https://tally.so/r/PdKpjV)
+</details>
+
+<details>
+<summary><b>Senior Code Quality Engineer</b></summary>
+
+Evaluate AI-generated code for correctness, security, scalability and maintainability. Find bugs and architectural weaknesses, write high-quality reference solutions and build the rubrics used to train and evaluate LLMs. This is not a tester or manual QA role.
+
+**Must-haves**
+- 7+ years of professional software engineering
+- Strong proficiency in at least one language: Python, JavaScript/TypeScript, Java, C++, Go, C#, Ruby, PHP or Rust
+- Hands-on experience building, debugging and reviewing production-grade software
+- Solid software design, clean code, data structures, APIs and databases
+- Strong written English for clear technical feedback
+- LinkedIn profile linked on your resume
+- Full-time (8h/day, 40h/week) with 4h overlap with PST
+- Based in Bangladesh, India, Pakistan, Indonesia, Egypt, Ghana, Nigeria, Turkey, Brazil or Colombia
+
+**Contract:** 3 months, immediate start · 30 open positions · Fast process: AI interview + one delivery interview
+
+[Apply here](https://tally.so/r/PdVeAP)
+</details>
+
+<details>
+<summary><b>Strategic Project Lead – Software Engineering</b></summary>
+
+Own end-to-end delivery of coding datasets, agentic trajectories, RL environments and benchmarks: quality, throughput, timelines and cost. Coordinate hundreds of distributed software engineers and act as the main point of contact for AI labs.
+
+**Must-haves**
+- Proven experience leading complex, multi-stakeholder programs (software engineering, technical program management, consulting, startups, operations or similar)
+- Strong analytical skills: find bottlenecks, define metrics, improve production performance
+- Experience managing distributed teams or large-scale technical operations
+- Able to read and review code and test suites (Python, TypeScript, Java or Go)
+- Strong customer-facing communication
+- LinkedIn profile linked on your resume
+- Full-time (8h/day, 40h/week) with 4h overlap with PST
+- Based in the USA (approved states), Canada, Bangladesh, India, Pakistan, Indonesia, Egypt, Ghana, Nigeria, Turkey, Brazil or Colombia
+
+**Contract:** 3 months, immediate start · Fast process: AI interview + one delivery interview
+
+[Apply here](https://tally.so/r/ODO9Ak)
+</details>
+
+<details>
+<summary><b>Staff Research Engineer – Frontier AI, RL & Evaluation</b></summary>
+
+Investigate high-impact questions in synthetic and agentic data, reinforcement learning, post-training and evaluation. Design rigorous experiments, build research-grade prototypes and tooling, and turn promising ideas into scalable applications.
+
+**Must-haves**
+- PhD or Master's in AI, Machine Learning, Computer Science or a related field (exceptional equivalent research experience considered)
+- 7+ years of professional experience, with significant research engineering on ML or frontier AI systems
+- Research experience in at least one area: synthetic/agentic data, RL or post-training, model understanding, AI evaluation, benchmarks, AI agents
+- Strong Python and modern ML frameworks
+- LinkedIn profile linked on your resume
+- Full-time (8h/day, 40h/week) with 4h overlap with PST
+- Based in the USA (approved states), Canada, Bangladesh, India, Pakistan, Indonesia, Egypt, Ghana, Nigeria, Turkey, Brazil or Colombia
+
+**Contract:** 3 months, immediate start · Work directly with leading AI labs on post-training and RL environment design
+
+[Apply here](https://tally.so/r/VL2AZN)
 </details>
 
 <details>
